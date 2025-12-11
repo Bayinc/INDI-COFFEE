@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.3" pages="3">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
     <mxGraphModel dx="3746" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -78,6 +78,52 @@
         </mxCell>
         <mxCell id="722" value="" style="shadow=0;dashed=0;html=1;strokeColor=#FFFFFF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shape=mxgraph.office.users.user;fillColor=#2F5B7C;labelBackgroundColor=none;fontSize=10;fontColor=#000000;align=left;strokeWidth=2;" parent="720" vertex="1">
           <mxGeometry width="46" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VyvBGczS8NkGqSl7r6Fl" name="PORTAFOLIO Y DIVERSIFICACIOON DE BEBIDAS">
+    <mxGraphModel dx="912" dy="579" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="afly1yt8dMu6KqJ239Nx-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="BEBIDAS CALIENTES" vertex="1">
+          <mxGeometry height="60" width="120" x="1024" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="afly1yt8dMu6KqJ239Nx-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="BEBIDAS FRÍAS" vertex="1">
+          <mxGeometry height="60" width="120" x="1024" y="598" as="geometry" />
+        </mxCell>
+        <mxCell id="afly1yt8dMu6KqJ239Nx-3" parent="1" style="whiteSpace=wrap;html=1;" value="AROMATIZANTES Y SIROPES" vertex="1">
+          <mxGeometry height="60" width="120" x="1024" y="693" as="geometry" />
+        </mxCell>
+        <mxCell id="afly1yt8dMu6KqJ239Nx-4" parent="1" style="whiteSpace=wrap;html=1;" value="COCTELES Y MOCKTAILS" vertex="1">
+          <mxGeometry height="60" width="120" x="1024" y="783" as="geometry" />
+        </mxCell>
+        <mxCell id="afly1yt8dMu6KqJ239Nx-5" parent="1" style="whiteSpace=wrap;html=1;" value="ACOMPAÑAMIENTOS COMESTIBLES" vertex="1">
+          <mxGeometry height="60" width="120" x="1024" y="882" as="geometry" />
+        </mxCell>
+        <mxCell id="afly1yt8dMu6KqJ239Nx-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SÁNDWICHES" vertex="1">
+          <mxGeometry height="42" width="111" x="1224" y="891" as="geometry" />
+        </mxCell>
+        <mxCell id="afly1yt8dMu6KqJ239Nx-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="TORTAS/PASTELITOS" vertex="1">
+          <mxGeometry height="42" width="135" x="1386" y="891" as="geometry" />
+        </mxCell>
+        <mxCell id="afly1yt8dMu6KqJ239Nx-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SABORES BASICOS" vertex="1">
+          <mxGeometry height="42" width="111" x="1215" y="702" as="geometry" />
+        </mxCell>
+        <mxCell id="afly1yt8dMu6KqJ239Nx-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SABORES INNOVADORES/ESTACIONALES" vertex="1">
+          <mxGeometry height="42" width="189" x="1368" y="702" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lFBugPucFOoKBUh9txMH" name="MERCH">
+    <mxGraphModel dx="866" dy="550" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FCNFdYtf6TToT9SnF51t-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="TAZAS DE CAFE" vertex="1">
+          <mxGeometry height="80" width="80" x="189" y="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
