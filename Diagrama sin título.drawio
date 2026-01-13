@@ -172,7 +172,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5V0kX2wdIJTmFF7TjniM" name="DESGLOSE">
-    <mxGraphModel dx="482" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1432" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -212,7 +212,7 @@
         <mxCell id="lhXoRhSr8OxgN5G6XT4A-9" edge="1" parent="1" source="lhXoRhSr8OxgN5G6XT4A-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="lhXoRhSr8OxgN5G6XT4A-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lhXoRhSr8OxgN5G6XT4A-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="MINISTERIO DEL TRABAJO Y PREVISION SOCIAL,&lt;div&gt;● Define la frontera entre independiente vs trabajador dependiente&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;●Regula:&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; ● Pretacion de servicios&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; ●Seguridad social&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; ●Cotizaciones&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; ●Nuevas formas de trabajo (gig economy)&lt;/div&gt;" vertex="1">
+        <mxCell id="lhXoRhSr8OxgN5G6XT4A-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#3333FF);align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="MINISTERIO DEL TRABAJO Y PREVISION SOCIAL,&lt;div&gt;● Define la frontera entre independiente vs trabajador dependiente&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;●Regula:&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; ● Pretacion de servicios&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; ●Seguridad social&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; ●Cotizaciones&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; ●Nuevas formas de trabajo (gig economy)&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="380" x="640" y="450" as="geometry" />
         </mxCell>
         <mxCell id="lhXoRhSr8OxgN5G6XT4A-11" edge="1" parent="1" source="lhXoRhSr8OxgN5G6XT4A-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lhXoRhSr8OxgN5G6XT4A-10">
@@ -221,7 +221,7 @@
         <mxCell id="lhXoRhSr8OxgN5G6XT4A-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="● Subsecretaria del Trabajo&lt;div&gt;● Dirección del trabajo&lt;/div&gt;&lt;div&gt;● Superint4endencia de Pensiones&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="210" x="1090" y="475" as="geometry" />
         </mxCell>
-        <mxCell id="lhXoRhSr8OxgN5G6XT4A-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="● Validación del modelo como plataforma intermediaria&lt;div style=&quot;text-align: left;&quot;&gt;● Diseño de esquemas de:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&amp;nbsp;●cotizacion volutaria/automatica&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: right;&quot;&gt;●&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Boleta de honorarios digital&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="lhXoRhSr8OxgN5G6XT4A-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="● Validación del modelo como plataforma intermediaria&lt;div style=&quot;text-align: left;&quot;&gt;● Diseño de esquemas de:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&amp;nbsp;●cotizacion volutaria/automatica&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: right;&quot;&gt;●&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Boleta de honorarios digital&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="320" x="1510" y="460" as="geometry" />
         </mxCell>
         <mxCell id="lhXoRhSr8OxgN5G6XT4A-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF8000);" value="" vertex="1">
@@ -229,6 +229,42 @@
         </mxCell>
         <mxCell id="lhXoRhSr8OxgN5G6XT4A-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;i&gt;&lt;b&gt;&quot;NO REMPLAZAMOS EMPLEO, FORMALIZACION INGRESOS HOY INFORMALES&quot;&lt;/b&gt;&lt;/i&gt;" vertex="1">
           <mxGeometry height="30" width="490" x="1920" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="lhXoRhSr8OxgN5G6XT4A-16" edge="1" parent="1" source="lhXoRhSr8OxgN5G6XT4A-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lhXoRhSr8OxgN5G6XT4A-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lhXoRhSr8OxgN5G6XT4A-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#3333FF);align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="MINISTERIO DE ECONOMIA, FOMENTO Y TURISMO&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Promueve:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;● Emprendimiento&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;● Digitalizacion&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;● Productividad&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="320" x="660" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="lhXoRhSr8OxgN5G6XT4A-19" edge="1" parent="1" source="lhXoRhSr8OxgN5G6XT4A-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="lhXoRhSr8OxgN5G6XT4A-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lhXoRhSr8OxgN5G6XT4A-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;Organismos dependientes&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;● CORFO&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;● SERCOTEC&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;●Subsecretaria de Economia&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;●Division de empresas de menor Tamaño (EMT)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="280" x="1036.82" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="lhXoRhSr8OxgN5G6XT4A-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;i&gt;ROL COMO SOCIO&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="240" x="1550" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="lhXoRhSr8OxgN5G6XT4A-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Financiamiento de:&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;● MVP&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;● Escalamiento&lt;/span&gt;&lt;/div&gt;&lt;div&gt;programas de:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;●Dgitalizacion de oficios&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;●formalizacion de microprestadores&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="210" x="1580" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="lhXoRhSr8OxgN5G6XT4A-22" edge="1" parent="1" source="lhXoRhSr8OxgN5G6XT4A-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lhXoRhSr8OxgN5G6XT4A-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lhXoRhSr8OxgN5G6XT4A-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#3333FF);align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="MINISTERIO DE DESARROLLO SOCIAL Y FAMILIA&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Trabaja con:&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;●Vulnerabilidad&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;● Empleabilidad&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;● Inclusión económica&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;●Maneja registros clave del Estado&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="310" x="660" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="lhXoRhSr8OxgN5G6XT4A-24" edge="1" parent="1" source="lhXoRhSr8OxgN5G6XT4A-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="lhXoRhSr8OxgN5G6XT4A-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lhXoRhSr8OxgN5G6XT4A-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;Organismos relevantes&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;●Registro Social de hogares (RSH)&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;●FOSIS&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;●SENAMA&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;●INJUV&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="220" x="1058" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="lhXoRhSr8OxgN5G6XT4A-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Programa piloto con:&lt;div&gt;&lt;br&gt;&lt;div&gt;● Jovenes&lt;/div&gt;&lt;div&gt;● Adultos mayores activos&lt;/div&gt;&lt;div&gt;● Jefas de hogar&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;●Validacion como herramienta de inclusion laboral flexible&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="340" x="1590" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="lhXoRhSr8OxgN5G6XT4A-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;i&gt;&quot;no como una startup, sino como política apoyada con tecnología&quot;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="30" width="370" x="1960" y="760" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
