@@ -172,7 +172,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5V0kX2wdIJTmFF7TjniM" name="DESGLOSE">
-    <mxGraphModel dx="482" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1790" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -268,6 +268,45 @@
         </mxCell>
         <mxCell id="lhXoRhSr8OxgN5G6XT4A-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#3333FF);align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="MINISTERIO DE CIENCIA, TECNOLOGIA, CONOCIMIENTO E INNOVACION&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Piloto de:&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;â— Algoritmos de matching justo&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;â— Reduccion de sesgos&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;â— Transparencia algoritmica&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;â— Vinculacion con universidades&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&quot;Algoritmos auditables con impacto social&quot;&lt;/i&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="440" x="618" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="lhXoRhSr8OxgN5G6XT4A-29" edge="1" parent="1" source="lhXoRhSr8OxgN5G6XT4A-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lhXoRhSr8OxgN5G6XT4A-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lhXoRhSr8OxgN5G6XT4A-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#3333FF);align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="MINISTERIO DE HACIENDA&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;â— Impuestos&lt;/div&gt;&lt;div&gt;â— Boletas&lt;/div&gt;&lt;div&gt;â— Retenciones&lt;/div&gt;&lt;div&gt;â— Formalizacion tributario&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="180" x="725" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="lhXoRhSr8OxgN5G6XT4A-31" edge="1" parent="1" source="lhXoRhSr8OxgN5G6XT4A-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lhXoRhSr8OxgN5G6XT4A-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lhXoRhSr8OxgN5G6XT4A-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Organismos:&amp;nbsp;&lt;div&gt;â— SII&lt;/div&gt;&lt;div&gt;â— Tesoreria General de la Republica&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="1020" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="lhXoRhSr8OxgN5G6XT4A-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Integracion con:&lt;div&gt;â— Boleta de honorarios electronics&lt;/div&gt;&lt;div&gt;â— Retencion automaticas&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Modelos de cumplimiento simplificado&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="230" x="1450" y="1045" as="geometry" />
+        </mxCell>
+        <mxCell id="lhXoRhSr8OxgN5G6XT4A-34" edge="1" parent="1" source="lhXoRhSr8OxgN5G6XT4A-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="lhXoRhSr8OxgN5G6XT4A-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lhXoRhSr8OxgN5G6XT4A-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#3333FF);align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="GOBIERNOS REGIONALES Y MUNICIPALIDADES&lt;div&gt;(PARTNER TACTICO, NO ESTRATEGICO&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;â—Manejan terriotorio&lt;/div&gt;&lt;div&gt;â—Conocwn oficios locales&lt;/div&gt;&lt;div&gt;â— Necesitan empleo rapido&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="300" x="665" y="1195" as="geometry" />
+        </mxCell>
+        <mxCell id="lhXoRhSr8OxgN5G6XT4A-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="â— Pilotos comunales&lt;div&gt;â—Programas de empleo local&lt;/div&gt;&lt;div&gt;â—Difusion territorial&lt;/div&gt;&lt;div&gt;â— Validacion comunitaria&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="180" x="1650" y="1225" as="geometry" />
+        </mxCell>
+        <mxCell id="AcQGpLzzV9tNy32_1OxD-2" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;VERIFICACION DE IDENTIDAD&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="370" x="70" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="AcQGpLzzV9tNy32_1OxD-5" edge="1" parent="1" source="AcQGpLzzV9tNy32_1OxD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AcQGpLzzV9tNy32_1OxD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcQGpLzzV9tNy32_1OxD-3" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;En una plataforma tipo Airtasker, la identidad cumple 4 funciones crÃ­ticas:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;í ½í´ Confianza entre desconocidos&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;âš–ï¸ Cumplimiento legal (KYC / AML)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;í ½í»¡ï¸ ReducciÃ³n de fraude y estafas&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;í ¾í·  ConstrucciÃ³n de reputaciÃ³n real (no perfiles fake)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="300" x="570" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="AcQGpLzzV9tNy32_1OxD-4" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;í ½í±‰ Sin identidad validada:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;No hay reputaciÃ³n creÃ­ble&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;No hay seguro&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;No hay escalabilidad&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;No hay alianza con el Estado&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="380" x="950" y="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="AcQGpLzzV9tNy32_1OxD-6" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;í ¼í¿—ï¸ NIVELES DE VERIFICACIÃ“N (MODELO MADURO)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Una buena plataforma NO verifica todo de una vez. Se diseÃ±a por capas:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Nivel&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;QuÃ© valida&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;CuÃ¡ndo&lt;/div&gt;&lt;div&gt;BÃ¡sico&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;Email + telÃ©fono&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;Registro&lt;/div&gt;&lt;div&gt;Medio&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;CÃ©dula + selfie&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;Postular a tareas&lt;/div&gt;&lt;div&gt;Alto&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;Antecedentes + RUT real&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;Tareas sensibles&lt;/div&gt;&lt;div&gt;Pro&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;Oficio / certificaciÃ³n&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;Servicios tÃ©cnicos&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="480" x="1400" y="1405" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
